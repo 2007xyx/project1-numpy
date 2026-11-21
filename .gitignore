@@ -1,0 +1,18 @@
+# Course-provided weights and evaluation assets
+weights/
+assets/
+
+# Generated inference results
+output_tokens.npz
+*.npz
+
+# Python caches / virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
